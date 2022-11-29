@@ -1,2 +1,2 @@
 # Arm-training-wearable-device
-Medical system
+Medical system with ardunio 
