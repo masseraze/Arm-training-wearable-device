@@ -5,7 +5,7 @@ Medical system with ardunio
 
 and I enhanced it by taking the course " Introduction of Medical SoC". I update date to the app made by my teammate. 
 At the same time, I participated business incubators in NCKU to get funding and to make it completed it well rounded.
-the detailed will be in this [file]()
+the detailed will be in this [file](https://github.com/masseraze/Arm-training-wearable-device/tree/main/wearable_device)
 
 # demo
 build 3D model with processing laungage 
