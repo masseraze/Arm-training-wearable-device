@@ -5,7 +5,7 @@ Medical system with ESP8266
 
  I discovered that the eletical dumbell I created could not provide a well-rounded user experience to people, so I began to develop wearable devices. I addressed the issue of electronic dumbell portability by creating an arm-training wearable device. I created a 3D model using a programming language and sent the value detected by the 9-axis sensor to activate the model.
  
-I asked a professor from the occupational therapy department about the proper sensor placement on the human body to avoid caculating incorrect angle degrees caused by muscle vibration. In addition, I upgraded my wearable devices by taking the "Introduction to Medical SoC" course. I linked data to the app created by my teammate.
+I asked a professor from the occupational therapy department about the proper sensor placement on the human body to avoid caculating incorrect angle degrees caused by muscle vibration. In addition, I upgraded my wearable devices by taking the "Introduction of Medical SoC" course. I linked data to the app created by my teammate.
 
 At the same time, I participated business incubators in NCKU to get funding and to make it completed it well rounded.
 
